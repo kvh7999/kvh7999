@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kvh7999
+- 👀 I’m interested in learning more about python
+- 🌱 I’m currently learning python
+- 📫 How to reach me: kvh7999@rit.edu
